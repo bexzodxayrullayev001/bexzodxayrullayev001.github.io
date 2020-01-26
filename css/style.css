@@ -60,17 +60,17 @@ i.iconic{
 .iconic-flag{
   width: 29px;
   height: 23px;
-  background: url("../img/icons/icons.png") -4px -1px no-repeat;
+  background: url("../img/icons/icons.png") -4px 2px no-repeat;
 }
 .iconic-gerb{
   width: 29px;
   height: 23px;
-  background: url("../img/icons/icons.png") -2px -31px no-repeat;
+  background: url("../img/icons/icons.png") -2px -28px no-repeat;
 }
 .iconic-gimn{
   width: 29px;
   height: 23px;
-  background: url("../img/icons/icons.png") -1px -61px no-repeat;
+  background: url("../img/icons/icons.png") -1px -58px no-repeat;
 }
 .max-text{
   content: "\e918";

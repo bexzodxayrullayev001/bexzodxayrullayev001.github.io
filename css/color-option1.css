@@ -26,7 +26,7 @@ ul.contact_info li a:hover,
 .error-content a,
 li.language.dropdown ul.dropdown-menu li.active a,
 li.language.dropdown ul.dropdown-menu li a:hover {
-  color: #465d72;
+  color: #8c8c8c;
 }
 
 .topbar,
@@ -51,17 +51,17 @@ li.language.dropdown ul.dropdown-menu li a:hover {
 .feature-section .commonBtn.secondaryBtn:focus,
 .cartListInner .updateArea .btn,
 .cartListInner .updateArea .btn:hover {
-  border-color: #465d72;
+  border-color: #8c8c8c;
 }
 
 .single_content .tab_menu > ul li.active a::after,
 .single_content .tab_menu > ul li a:hover::after {
-  border-top-color: #465d72;
+  border-top-color: #8c8c8c;
 }
 
 .feature-section .commonBtn.secondaryBtn:hover,
 .feature-section .commonBtn.secondaryBtn:focus {
-  background-color: #465d72;
+  background-color: #8c8c8c;
 }
 
 .topbar,
@@ -88,7 +88,7 @@ li.language.dropdown ul.dropdown-menu li a:hover {
 .feature-section .commonBtn.secondaryBtn,
 .cartListInner .updateArea .btn,
 .cartListInner .updateArea .btn:hover {
-  background-color: #465d72;
+  background-color: #8c8c8c;
 }
 
 @media (max-width: 767px) {
@@ -97,7 +97,7 @@ li.language.dropdown ul.dropdown-menu li a:hover {
   .header .navbar-nav li.dropdown .dropdown-menu li a:hover,
   .header .navbar-nav li.dropdown .dropdown-menu li a:focus,
   .header .navbar-default .navbar-nav li.apply_now a:hover {
-    color: #465d72;
+    color: #8c8c8c;
   }
 }
 
