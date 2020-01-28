@@ -71,6 +71,9 @@ jQuery(document).ready(function($) {
     $('.banner').carousel({
 	  interval: 5000
 	});
+	$('.banner2').carousel({
+		interval: 5000
+	});
 
 	jQuery('.bannerV2 .fullscreenbanner').revolution({
 		delay: 5000,
